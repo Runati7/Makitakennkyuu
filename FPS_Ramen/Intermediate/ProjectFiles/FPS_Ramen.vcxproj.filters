@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\FPS_Ramen.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\FPS_Ramen.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\FPS_RamenEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\FPS_Ramen">
+      <UniqueIdentifier>{4D8BF11A-69BF-358D-B299-59C221A69009}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\FPS_Ramen\FPS_Ramen.Build.cs">
+      <Filter>Source\FPS_Ramen</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\FPS_Ramen\FPS_Ramen.cpp">
+      <Filter>Source\FPS_Ramen</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FPS_Ramen\FPS_Ramen.h">
+      <Filter>Source\FPS_Ramen</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FPS_Ramen\FPS_RamenCharacter.cpp">
+      <Filter>Source\FPS_Ramen</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FPS_Ramen\FPS_RamenCharacter.h">
+      <Filter>Source\FPS_Ramen</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FPS_Ramen\FPS_RamenGameMode.cpp">
+      <Filter>Source\FPS_Ramen</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FPS_Ramen\FPS_RamenGameMode.h">
+      <Filter>Source\FPS_Ramen</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FPS_Ramen\FPS_RamenPlayerController.cpp">
+      <Filter>Source\FPS_Ramen</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FPS_Ramen\FPS_RamenPlayerController.h">
+      <Filter>Source\FPS_Ramen</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FPS_Ramen\FPS_RamenProjectile.cpp">
+      <Filter>Source\FPS_Ramen</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FPS_Ramen\FPS_RamenProjectile.h">
+      <Filter>Source\FPS_Ramen</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FPS_Ramen\TP_PickUpComponent.cpp">
+      <Filter>Source\FPS_Ramen</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FPS_Ramen\TP_PickUpComponent.h">
+      <Filter>Source\FPS_Ramen</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FPS_Ramen\TP_WeaponComponent.cpp">
+      <Filter>Source\FPS_Ramen</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FPS_Ramen\TP_WeaponComponent.h">
+      <Filter>Source\FPS_Ramen</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

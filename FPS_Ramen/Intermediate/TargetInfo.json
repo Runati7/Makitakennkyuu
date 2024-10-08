@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "FPS_Ramen",
+			"Path": "..\\Source\\FPS_Ramen.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "FPS_RamenEditor",
+			"Path": "..\\Source\\FPS_RamenEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

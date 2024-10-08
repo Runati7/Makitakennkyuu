@@ -1,0 +1,23 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\a22042\\documents\\sotusei\\project\\fps_ramen\\source\\fps_ramen\\fps_ramenprojectile.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\a22042\\documents\\sotusei\\project\\fps_ramen\\intermediate\\build\\win64\\x64\\fps_rameneditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\a22042\\documents\\sotusei\\project\\fps_ramen\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\fps_ramen\\definitions.fps_ramen.h",
+            "c:\\users\\a22042\\documents\\sotusei\\project\\fps_ramen\\source\\fps_ramen\\fps_ramenprojectile.h",
+            "c:\\users\\a22042\\documents\\sotusei\\project\\fps_ramen\\intermediate\\build\\win64\\unrealeditor\\inc\\fps_ramen\\uht\\fps_ramenprojectile.generated.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\projectilemovementcomponent.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\movementcomponent.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\movementcomponent.generated.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\projectilemovementcomponent.generated.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\components\\spherecomponent.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\components\\shapecomponent.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\shapecomponent.generated.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\spherecomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\a22042\\documents\\sotusei\\project\\fps_ramen\\source\\fps_ramen\\fps_ramen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\a22042\\documents\\sotusei\\project\\fps_ramen\\intermediate\\build\\win64\\x64\\fps_rameneditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\a22042\\documents\\sotusei\\project\\fps_ramen\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\fps_ramen\\definitions.fps_ramen.h",
+            "c:\\users\\a22042\\documents\\sotusei\\project\\fps_ramen\\source\\fps_ramen\\fps_ramen.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
